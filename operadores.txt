@@ -1,0 +1,7 @@
+Operador	Significado		Exemplo
+-eq		Igual	                [ "$a" -eq 5 ]
+-ne		Diferente	        [ "$a" -ne 5 ]
+-gt		Maior que		[ "$a" -gt 5 ]
+-lt		Menor que		[ "$a" -lt 5 ]
+-ge		Maior ou igual		[ "$a" -ge 5 ]
+-le		Menor ou igual		[ "$a" -le 5 ]
